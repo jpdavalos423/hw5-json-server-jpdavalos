@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "title": "PokeCollect",
+      "description": "A Pokemon card collection tracker allowing users to manage their collection and view market prices.",
+      "detailUrl": "pokecollect.html",
+      "liveUrl": "https://cse110-sp25-group20.github.io/cse110-sp25-group20/",
+      "repoUrl": "https://github.com/cse110-sp25-group20/Repo-of-Truth",
+      "details": [
+        "Integrated Pokemon TCG API",
+        "LocalStorage-based collection tracking",
+        "Responsive UI",
+        "Team-based development using Agile"
+      ],
+      "image": "assets/pokecollect-preview-800w.jpg",
+      "imageAlt": "Dashboard preview of PokeCollect application"
+    },
+    {
+      "title": "DSA Visualizer",
+      "description": "Interactive sorting algorithm animations built for student learning.",
+      "detailUrl": "dsa-visualizer.html",
+      "liveUrl": "#",
+      "repoUrl": "https://github.com/jpdavalos423/sorting-algorithms",
+      "details": [
+        "Sorting algorithm visualizations",
+        "Step-by-step animation controls",
+        "React + D3.js rendering",
+        "Interactive UI for teaching concepts"
+      ],
+      "image": "assets/algorithm-preview-800w.jpg",
+      "imageAlt": "A screenshot of the DSA Visualizer interface"
+    },
+    {
+      "title": "Now Playing Display",
+      "description": "Real-time music playback screen optimized for Raspberry Pi.",
+      "detailUrl": "now-playing.html",
+      "liveUrl": "#",
+      "repoUrl": "https://github.com/jpdavalos423/spotify-now-playing",
+      "details": [
+        "Spotify Web API integration",
+        "OAuth-based authentication",
+        "Optimized for minimal hardware power",
+        "Compact responsive UI"
+      ],
+      "image": "assets/spotify-preview-800w.jpg",
+      "imageAlt": "Raspberry Pi display showing Now Playing screen"
+    }
+  ]
+}
